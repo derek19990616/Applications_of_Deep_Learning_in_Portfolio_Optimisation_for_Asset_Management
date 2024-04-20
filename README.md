@@ -31,6 +31,7 @@ Jupyter Notebook
 QuantStats
 Scipy
 Statsmodels
+
 ## Usage
 Open the Jupyter Notebooks in the repository to view the implementations:
 
@@ -44,6 +45,7 @@ CNN: Utilises convolutional layers to capture the temporal dependencies in asset
 LSTM: Employs memory cells to understand long-term dependencies in time series data.
 TCN: Applies causal convolutions, providing a robust architecture for sequence modeling.
 Ensemble Learning: Combines predictions from multiple models using Bayesian Model Averaging to improve accuracy.
+
 ## Results
 The models were evaluated based on their mean squared error (MSE), accuracy, and their ability to maximize the Sharpe ratio through strategic portfolio allocations. Each model's performance is detailed in the respective Jupyter Notebook with visual insights and statistical analysis.
 
@@ -54,7 +56,8 @@ Contributions to this project are welcome. Please fork the repository and submit
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Haochen Pan - panhaochen0616@gmail.com
-##Acknowledgements
+Haochen Pan - panhaochen0616@gmail.com - https://www.linkedin.com/in/panhaochen/
+
+## Acknowledgements
 Thanks to all the contributors who have invested their time in improving this project.
-Special thanks to the community for providing insights and feedback on machine learning in finance.
+
