@@ -31,6 +31,7 @@ Jupyter Notebook
 QuantStats
 Scipy
 Statsmodels
+keras-tcn
 
 ## Usage
 Open the Jupyter Notebooks in the repository to view the implementations:
