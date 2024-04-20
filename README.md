@@ -11,7 +11,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/derek19990616/Applications_of_Deep_Learning_in_Portfolio_Optimisation_for_Asset_Management.git
-cd DLProject
+cd Applications_of_Deep_Learning_in_Portfolio_Optimisation_for_Asset_Management
 Install required packages:
 bash
 Copy code
