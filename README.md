@@ -53,9 +53,6 @@ The models were evaluated based on their mean squared error (MSE), accuracy, and
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your enhancements.
 
-## License
-Distributed under the MIT License. See LICENSE for more information.
-
 ## Contact
 Haochen Pan - panhaochen0616@gmail.com - https://www.linkedin.com/in/panhaochen/
 
